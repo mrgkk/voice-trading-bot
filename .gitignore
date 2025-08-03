@@ -1,0 +1,25 @@
+# Virtual environments
+venv/
+client/venv/
+server/venv/
+
+# Log files
+*.log
+client/*.log
+server/*.log
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variable files
+.env
+client/.env
+server/.env
+
+# IDEs
+.vscode/
+.idea/
+
+# OS junk files
+.DS_Store
